@@ -45,6 +45,6 @@ This Java ToDo List Project is a console-based application that allows you to ma
 3. Run the application:
    ```sh
    java ToDoListProject.Driver
-
+   
 ## Contributing
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
